@@ -18,3 +18,4 @@ spec:
         - name: server
           image: 191119971860/microservice:server
           ports:
+            - containerPort: 9003
